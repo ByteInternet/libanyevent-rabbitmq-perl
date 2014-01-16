@@ -1,0 +1,19 @@
+libanyevent-rabbitmq-perl (1.15~dfsg-2) unstable; urgency=medium
+
+  * Team upload
+
+  * fix symlink to fixed_amqp0-9-1.xml
+    Closes: #735532 -- Invalid location of fixed_amqp0-9-1.xm
+  * add amqp-specs as a direct dependency
+  * Declare conformance with Policy 3.9.5
+  * migrate search.cpan.org URLs to metacpan.org
+  * use cannonical packaging Git URL
+
+ -- Damyan Ivanov <dmn@debian.org>  Thu, 16 Jan 2014 13:01:16 +0200
+
+libanyevent-rabbitmq-perl (1.15~dfsg-1) unstable; urgency=low
+
+  * Initial packaging release.
+    Closes: bug#703660.
+
+ -- Jonas Smedegaard <dr@jones.dk>  Sun, 21 Jul 2013 18:29:13 +0200
